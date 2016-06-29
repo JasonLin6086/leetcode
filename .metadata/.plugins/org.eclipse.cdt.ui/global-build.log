@@ -1,0 +1,5 @@
+10:30:47 **** Incremental Build of configuration Debug for project MergeIntervals ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o mergeintervals.o "..\\mergeintervals.cpp" 
+g++ -o MergeIntervals.exe mergeintervals.o 
+Info: Nothing to build for MergeIntervals

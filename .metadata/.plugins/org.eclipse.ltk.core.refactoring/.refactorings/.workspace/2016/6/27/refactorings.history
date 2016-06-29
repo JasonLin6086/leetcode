@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MergeIntervals&apos;" deleteContents="true" description="Delete resource &apos;MergeIntervals&apos;" element1="/MergeIntervals" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1467218964478"/>&#x0A;<refactoring comment="Delete resource &apos;lintcode&apos;" deleteContents="true" description="Delete resource &apos;lintcode&apos;" element1="/lintcode" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1467221392325"/>
+</session>
